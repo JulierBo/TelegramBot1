@@ -1,0 +1,7 @@
+{
+  "users": {},
+  "stock": [],
+  "receipts": {},
+  "price": 1000,
+  "payment": {"Wave":{"phone":"","name":""},"KPay":{"phone":"","name":""}}
+}
